@@ -1,0 +1,20 @@
+{
+  "name": "nader-execution-mode",
+  "interface": {
+    "displayName": "NADER Execution Mode"
+  },
+  "plugins": [
+    {
+      "name": "nader-execution-mode",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

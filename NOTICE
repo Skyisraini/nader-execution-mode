@@ -1,0 +1,9 @@
+NADER Execution Mode
+
+Concepts related to action-first output and tangent control were inspired by
+"i-have-adhd" by Ayoub Ghriss, licensed under the MIT License:
+https://github.com/ayghri/i-have-adhd
+
+This project adds original execution-governance rules including acceptance
+contracts, autonomous execution boundaries, evidence-based completion,
+explicit completion states, verification repair, and failure-loop discipline.

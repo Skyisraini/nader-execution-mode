@@ -1,0 +1,4 @@
+interface:
+  display_name: "NADER Execution Mode"
+  short_description: "Execute scoped work with evidence-based completion."
+  default_prompt: "Use NADER Execution Mode to execute this request, verify every acceptance criterion, and report evidence."

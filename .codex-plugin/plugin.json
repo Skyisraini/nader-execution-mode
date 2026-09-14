@@ -1,0 +1,23 @@
+{
+  "name": "nader-execution-mode",
+  "version": "0.1.1",
+  "description": "Evidence-based execution governance for scoped agent work.",
+  "author": {
+    "name": "Nader"
+  },
+  "repository": "https://github.com/Skyisraini/nader-execution-mode",
+  "license": "MIT",
+  "keywords": ["execution", "verification", "governance", "productivity"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "NADER Execution Mode",
+    "shortDescription": "Execute, verify, fix, and report evidence.",
+    "longDescription": "Turns substantial requests into a scoped acceptance contract, executes autonomously within authorization, verifies outcomes, fixes failures, and reports evidence without false completion claims.",
+    "developerName": "Nader",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Use NADER Execution Mode to execute this request, verify every acceptance criterion, fix in-scope failures, and report evidence."
+    ]
+  }
+}
